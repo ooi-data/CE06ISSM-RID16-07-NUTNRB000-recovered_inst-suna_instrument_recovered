@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE06ISSM-RID16-07-NUTNRB000-recovered_inst-suna_instrument_recovered
 last_request: '2021-09-17T23:11:56.285842Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-RID16-07-NUTNRB000-recovered_inst-suna_instrument_recovered/main/history/response.json
-status: pending
+status: success
